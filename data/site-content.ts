@@ -9,7 +9,7 @@ export const siteConfig = {
     linkedin: "https://www.linkedin.com/in/ruan-natividade/",
     instagram: "https://www.instagram.com/ruan.natividade/",
     github: "https://github.com/NatiivaZ",
-    portfolio: "https://natiivaz.github.io/Portifolio-/",
+    portfolio: "https://natiivaz.github.io/",
   },
   profileImage: "/images/profile.jpg",
   backgroundImage: "/images/background.jpg",

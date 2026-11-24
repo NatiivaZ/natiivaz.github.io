@@ -1,5 +1,6 @@
 /** @type {import('next').NextConfig} */
-const basePath = process.env.NODE_ENV === "production" ? "/Portifolio-" : ""
+// Site de usuário (natiivaz.github.io): servido na raiz do domínio, sem basePath.
+const basePath = ""
 
 const nextConfig = {
   output: "export",
